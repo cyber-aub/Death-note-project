@@ -1,4 +1,4 @@
-![Start Screen](https://github.com/IDIRYACINE/death-note-hackathon/blob/main/preview/StartScreen.png?raw=true)
+![Start Screen](https://github.com/cyber-aub/Death-note-project/blob/main/preview/StartScreen.png)
 
 ## The Project
 This is a death note inspired game.
