@@ -1,0 +1,72 @@
+{
+    "general" : "General Rules",
+    "kira" : "Kira Rules",
+    "lawliet" : "Lawliet Rules",
+    "neutral" : "Neutral Rules",
+    "goBack" : "Main Menu",
+    "mainMenu" : "Main Menu",
+    "generalRulesArray" : [
+        {
+            "id" : "0",
+            "rule" : "Death note is a battle of wits and psychological wellfare.Your intelligence and imagination are the only limits."
+        },
+        {
+            "id" : "1",
+            "rule" : "The game is played in rounds.Each round has 2 phases: Discussion and Voting.Kira and L have a dedicated channels to brodcast their messages."
+        },
+        {
+            "id" : "2",
+            "rule" : "The game is over if the rounds exceed 10.Kira is imprisoned or L is killed."
+        },
+        {
+            "id" : "3",
+            "rule" : "By it's nature role playing is encouraged but not mandatory."
+        }
+    ],
+    "kiraRulesArray" : [
+        {
+            "id" : "0",
+            "rule" : "You can kill one person each round by writing his name in the death note. This applies only if you know his name and face. You may only kill those in suspicion of being L."
+        },
+        {   
+            "id" : "1",
+            "rule" : "Each turn a secret is revealed from L list of secrets."
+        },
+        {
+            "id" : "2",
+            "rule" : "When a player L meter reaches 70% you can ivestigate him.Thus revealing one of his secrets"
+        },
+        {
+            "id":"3",
+            "rule" : "When a player L meter reaches 90% you can kill him."
+        }
+    ],
+    "lawlietRulesArray":[
+        {
+            "id" : "0",
+            "rule" : "You can imprison one person each round. This applies only if the person is in suspicion of being Kira."
+        },
+        {
+            "id" : "1",
+            "rule" : "Each turn a secret is revealed from Kira list of secrets."
+        },
+        {
+            "id" : "2",
+            "rule" : "When a player Kira meter reaches 70% you can ivestigate him.Thus revealing one of his secrets"
+        },
+        {
+            "id":"3",
+            "rule" : "When a player Kira meter reaches 90% you can imprison him."
+        }
+    ],
+    "neutralRulesArray":[
+        {
+            "id" : "0",
+            "rule" : "As a main member of the investigation team you can influence the investigation to aid Kira or L."
+        },
+        {
+            "id" : "1",
+            "rule" : "You can vouch for a persone once per round and reduce his K or L meters.You may do so if you feel he is innocent or to mislead the investigation."
+        }
+    ]
+}

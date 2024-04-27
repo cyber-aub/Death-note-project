@@ -1,0 +1,72 @@
+{
+    "general" : "Règles generales",
+    "kira" : "Règles de Kira",
+    "lawliet" : "Règles de Lawliet",
+    "neutral" : "Règles neutres",
+    "goBack" : "Menu principal",
+    "mainMenu" : "Menu principal",
+    "generalRulesArray" : [
+        {
+            "id" : "0",
+            "rule" : "Death Note est un combat d'intelligence et de bien-etre psychologique. Votre intelligence et votre imagination sont les seules limites."
+        },
+        {
+            "id" : "1",
+            "rule" : "Le jeu se deroule en rondes. Chaque ronde comporte 2 phases : Discussion et Vote. Kira et L ont des canaux dedies pour diffuser leurs messages."
+        },
+        {
+            "id" : "2",
+            "rule" : "La partie se termine si les rondes depassent 10, si Kira est emprisonne ou si L est tue."
+        },
+        {
+            "id" : "3",
+            "rule" : "Par sa nature, le jeu de rôle est encourage mais non obligatoire."
+        }
+    ],
+    "kiraRulesArray" : [
+        {
+            "id" : "0",
+            "rule" : "Vous pouvez tuer une personne A chaque ronde en ecrivant son nom dans le Death Note. Cela s'applique uniquement si vous connaissez son nom et son visage. Vous ne pouvez tuer que ceux que vous soupconnez d'etre L."
+        },
+        {   
+            "id" : "1",
+            "rule" : "A chaque tour, un secret est revele dans la liste de secrets de L."
+        },
+        {
+            "id" : "2",
+            "rule" : "Lorsqu'un joueur atteint 70% du metrage de L, vous pouvez l'interroger, revelant ainsi l'un de ses secrets."
+        },
+        {
+            "id":"3",
+            "rule" : "Lorsqu'un joueur atteint 90% du metrage de L, vous pouvez le tuer."
+        }
+    ],
+    "lawlietRulesArray":[
+        {
+            "id" : "0",
+            "rule" : "Vous pouvez emprisonner une personne A chaque ronde. Cela s'applique uniquement si la personne est soupconnee d'etre Kira."
+        },
+        {
+            "id" : "1",
+            "rule" : "A chaque tour, un secret est revele dans la liste de secrets de Kira."
+        },
+        {
+            "id" : "2",
+            "rule" : "Lorsqu'un joueur atteint 70% du metrage de Kira, vous pouvez l'interroger, revelant ainsi l'un de ses secrets."
+        },
+        {
+            "id":"3",
+            "rule" : "Lorsqu'un joueur atteint 90% du metrage de Kira, vous pouvez l'emprisonner."
+        }
+    ],
+    "neutralRulesArray":[
+        {
+            "id" : "0",
+            "rule" : "En tant que membre principal de l'equipe d'investigation, vous pouvez influencer l'enquete pour aider Kira ou L."
+        },
+        {
+            "id" : "1",
+            "rule" : "Vous pouvez temoigner en faveur d'une personne une fois par ronde et reduire ses metrages de K ou L. Vous pouvez le faire si vous pensez qu'il est innocent ou pour induire en erreur l'enquete."
+        }
+    ]
+}
