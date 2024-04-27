@@ -1,12 +1,10 @@
 ![Start Screen](https://github.com/IDIRYACINE/death-note-hackathon/blob/main/preview/StartScreen.png?raw=true)
 
 ## The Project
-This is a death note inspired game . built for webdevCody hacakthon . sponsored by convex .
+This is a death note inspired game.
 The project aim for all the elligiable categories since it have both creative AI usage and multiplayer collaboration.
 
 - Subbmision Video on [Youtube](https://www.youtube.com/watch?v=EkG2Jg3igHs)  Or  [Rumble](https://rumble.com/v3in4f5-death-note-inspired-game-webdevcody-hackathon.html)
-- [Hacakthon anouncement video](https://www.youtube.com/watch?v=E5Kt_E8m4t8)
-- [Convex youtube channel](https://www.youtube.com/@convex-dev)
 ## Running The Project
 - Set up the enivorment file from .env.template.local and change it's name to .env.local
 - yarn dev or npm run dev 
